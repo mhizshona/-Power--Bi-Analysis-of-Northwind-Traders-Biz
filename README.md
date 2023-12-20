@@ -121,7 +121,7 @@ After the the Data was properly cleaned and the measures set up, i Proceeded to 
 
 
 
-![](filter.jpg)
+![](filter.png)
 
 
 
